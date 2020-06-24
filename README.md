@@ -4,6 +4,7 @@ Replicating and improving upon the Colorful Image Colorization paper by Richard 
 ## Team 
 - Priyansi
 - Twisha
+- Sejal
 ## Workflow
 | Date       | Discussion Topics                             | Topics to be completed after discussion                                                    |
 |------------|-----------------------------------------------|--------------------------------------------------------------------------------------------|
